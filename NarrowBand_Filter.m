@@ -1,8 +1,6 @@
 %%
-%     COURSE: Signal processing problems, solved in MATLAB and Python
-%    SECTION: Filtering
-%      VIDEO: Narrow-band filters
-% Instructor: sincxpress.com
+% Author: Jibreal Khan
+% Program: Designing a NarrowBand filter
 %
 %%
 

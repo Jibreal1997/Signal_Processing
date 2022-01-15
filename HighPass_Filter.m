@@ -1,8 +1,6 @@
 %%
-%     COURSE: Signal processing problems, solved in MATLAB and Python
-%    SECTION: Filtering
-%      VIDEO: High-pass filters
-% Instructor: sincxpress.com
+% Author: Jibreal Khan
+% Program: Designing a High pass filter
 %
 %%
 
